@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @siddarthsreeni
+- 👀 I’m interested in technology, mostly things around software engineering
+- 🌱 I’m currently learning to be a better engineer.
+- 💞️ I’m looking to collaborate on decentralised messaging systems (Yes, its a thing that I've my mind on)
+- 📫 Reach me on <a href="https://www.linkedin.com/in/siddarth-sreeni/" target="_top">linkedIn! </a> 
